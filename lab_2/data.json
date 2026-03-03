@@ -1,0 +1,15 @@
+[
+    {
+        "id": 0,
+        "first_name": "Jack",
+        "last_name": "Hooper",
+        "address": "Voluptas aut eu quam",
+        "country": "UK",
+        "gender": "Female",
+        "skills": [
+            "J2SE"
+        ],
+        "username": "hosyr",
+        "department": "Harum dolor pariatur"
+    }
+]
